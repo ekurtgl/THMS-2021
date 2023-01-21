@@ -1,4 +1,4 @@
-# THMS-2021
+# ASL Trigger Recognition in Mixed Activity/Signing Sequences for RF Sensor-Based User Interfaces
 
 This repository contains the source code of the following paper:
 
