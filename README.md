@@ -6,4 +6,8 @@ E. Kurtoğlu, A. C. Gurbuz, E. A. Malaia, D. Griffin, C. Crawford and S. Z. Gurb
 
 The dataset consists of 15 ASL signs and 3 human daily activities and it is available in [here](https://github.com/ci4r/ASL-Sequential-Dataset).  
 
-While MATLAB scripts are used for raw data processing to generate range-Doppler, range-Azimuth maps and micro-Doppler spectrograms, Python scripts are used for classification.
+While MATLAB scripts are used for raw data processing to generate `range-Doppler`, `range-Azimuth` maps and `micro-Doppler` spectrograms, Python scripts are used for classification.
+
+`Python/create_dataset*.ipynb` files are used to read the created videos and images and save them as pickle or .hdf5 files.
+
+`Python/Final baseline 2.ipynb` is the main classification file thich implements STA/LTA motion detector and JD-MTML model.
