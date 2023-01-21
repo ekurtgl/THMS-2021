@@ -10,4 +10,4 @@ While MATLAB scripts are used for raw data processing to generate `range-Doppler
 
 `Python/create_dataset*.ipynb` files are used to read the created videos and images and save them as pickle or .hdf5 files.
 
-`Python/Final baseline 2.ipynb` is the main classification file thich implements STA/LTA motion detector and JD-MTML model.
+`Python/Final baseline 2.ipynb` is the main classification script which implements the STA/LTA motion detector and the JD-MTML model explained in the paper.
